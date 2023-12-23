@@ -1,2 +1,2 @@
 # BootstrapBasics
-Learing bootstrap 
+Learing how to design frontend using bootstrap.
